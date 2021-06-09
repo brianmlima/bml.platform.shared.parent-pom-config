@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.bml</groupId>
+	<artifactId>parent-pom-config</artifactId>
+	<version>1.0.0</version>
+	<name>ORG.BML parent config</name>
+	<description>ORG BML parent project config files</description>
+
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub Packages</name>
+			<url>https://maven.pkg.github.com/org.bml/bml-parent-config</url>
+		</repository>
+	</distributionManagement>
+
+
+</project>
