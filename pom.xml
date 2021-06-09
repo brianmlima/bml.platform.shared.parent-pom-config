@@ -12,9 +12,8 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/org.bml/bml-parent-config</url>
+			<url>https://maven.pkg.github.com/brianmlima/platform</url>
 		</repository>
 	</distributionManagement>
-
 
 </project>
